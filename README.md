@@ -1,4 +1,4 @@
-# 🌐 **JISKES Tech**
+# 🌐 **JISKE Tech**
 
 > *Innovando el futuro, un código a la vez.*
 
@@ -12,8 +12,7 @@
 | **Jean Vásquez**     | Diseñador UX/UI |
 | **Santiago Riofrío** | Backend Developer |
 | **Kelvin Sarango**   | Security Developer |
-| **Edison Chamba**    | Desarrollador Full Stack |
-| **Saúl Yaguana**     | Frontend Developer |
+| **Edison Chamba**    | Frontend Developer |
 
 ---
 ## **Descripción del Proyecto**
