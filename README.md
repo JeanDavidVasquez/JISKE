@@ -23,7 +23,7 @@
       <em>Diseñador UX/UI</em>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150/CCCCCC/FFFFFF?text=SR" width="150" alt="Foto pendiente de Santiago Riofrío">
+      <img src="https://github.com/user-attachments/assets/270828c4-40a5-4b45-849d-018b9dfcff27" width="180" alt="Foto de Santiago Riofrío">
       <br>
       <strong>Santiago Riofrío</strong>
       <br>
@@ -39,7 +39,7 @@
       <em>Security Developer</em>
     </td>
     <td align="center">
-      <img src="https://via.placeholder.com/150/CCCCCC/FFFFFF?text=EC" width="150" alt="Foto pendiente de Edison Chamba">
+      <img src="https://github.com/user-attachments/assets/8ae18d16-9658-40e2-99c4-2b07d98a3ec8" width="150" alt="Foto de Edison Chamba">
       <br>
       <strong>Edison Chamba</strong>
       <br>
