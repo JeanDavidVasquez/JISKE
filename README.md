@@ -4,7 +4,7 @@
 
 ---
 
-## 💼 **Integrantes del Equipo**
+## **Integrantes del Equipo**
 
 | Nombre completo     | Rol principal (referencial) |
 |----------------------|-----------------------------|
@@ -35,7 +35,3 @@ Desarrollar soluciones tecnológicas innovadoras que combinen **eficiencia, esca
 Convertirnos en una **empresa líder en el desarrollo de software en la nube**, destacando por la **creatividad, compromiso e innovación** de nuestras aplicaciones, tanto a nivel nacional como internacional.
 
 ---
-
-
-## 📂 **Estructura Propuesta del Repositorio**
-
