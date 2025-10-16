@@ -1,4 +1,4 @@
-# 🌐 **JISKE Tech**
+# 🌐 **JESKI Tech**
 
 > *Innovando el futuro, un código a la vez.*
 
