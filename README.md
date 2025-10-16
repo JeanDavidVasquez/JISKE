@@ -32,14 +32,14 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://via.placeholder.com/150/CCCCCC/FFFFFF?text=KS" width="150" alt="Foto pendiente de Kelvin Sarango">
+      <img src="https://github.com/user-attachments/assets/aeb42a78-9da8-4d86-969c-2518263901ed" width="150" alt="Foto de Kelvin Sarango">
       <br>
       <strong>Kelvin Sarango</strong>
       <br>
       <em>Security Developer</em>
     </td>
     <td align="center">
-      <img src="https://github.com/user-attachments/assets/8ae18d16-9658-40e2-99c4-2b07d98a3ec8" width="150" alt="Foto de Edison Chamba">
+      <img src="https://github.com/user-attachments/assets/8ae18d16-9658-40e2-99c4-2b07d98a3ec8" width="170" alt="Foto de Edison Chamba">
       <br>
       <strong>Edison Chamba</strong>
       <br>
