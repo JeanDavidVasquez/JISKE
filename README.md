@@ -18,8 +18,9 @@
 ---
 ## **Descripción del Proyecto**
 
-**JISKES** es una empresa conformada por un equipo de jóvenes desarrolladores comprometidos con la innovación tecnológica.  
-Nuestro propósito inicial es **diseñar y planificar una aplicación móvil moderna**, la cual será **desplegada en la nube** y desarrollada bajo una **arquitectura escalable**, garantizando su crecimiento y sostenibilidad futura.
+**JISKES Tech** es una empresa de desarrollo de software dedicada a crear **soluciones digitales personalizadas**, diseñadas para responder de manera precisa a las necesidades de cada cliente.  
+
+Nuestro enfoque se centra en la **calidad, la innovación y la excelencia técnica**, asegurando que cada producto desarrollado sea **escalable, seguro** y contribuya activamente a la **transformación digital** y al **crecimiento tecnológico** de quienes confían en nosotros.
 
 ---
 
