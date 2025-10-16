@@ -21,7 +21,6 @@
 **JISKES** es una empresa conformada por un equipo de jóvenes desarrolladores comprometidos con la innovación tecnológica.  
 Nuestro propósito inicial es **diseñar y planificar una aplicación móvil moderna**, la cual será **desplegada en la nube** y desarrollada bajo una **arquitectura escalable**, garantizando su crecimiento y sostenibilidad futura.
 
-Actualmente, nos encontramos en la **fase de análisis, diseño y definición de requerimientos**, con el objetivo de establecer una base sólida para el desarrollo del proyecto.
 ---
 
 ## **Misión**
