@@ -8,7 +8,7 @@
 
 | Nombre completo     | Rol principal (referencial) |
 |----------------------|-----------------------------|
-| **Iam Estrella**     | Desarrollador Full Stack |
+| **Iam Estrella**     | Backend Developer |
 | **Jean Vásquez**     | Diseñador UX/UI |
 | **Santiago Riofrío** | Backend Developer |
 | **Kelvin Sarango**   | Security Developer |
