@@ -36,14 +36,14 @@
       <br>
       <strong>Kelvin Sarango</strong>
       <br>
-      <em>Security Developer</em>
+      <em>Frontend Developer</em>
     </td>
     <td align="center">
       <img src="https://github.com/user-attachments/assets/8ae18d16-9658-40e2-99c4-2b07d98a3ec8" width="170" alt="Foto de Edison Chamba">
       <br>
       <strong>Edison Chamba</strong>
       <br>
-      <em>Frontend Developer</em>
+      <em>Security Developer</em>
     </td>
     <td align="center" style="border: none;">
       </td>
