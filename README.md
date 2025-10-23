@@ -61,7 +61,7 @@ Nuestro enfoque se centra en la **calidad, la innovación y la excelencia técni
 
 ## **Misión**
 
-Desarrollar soluciones tecnológicas innovadoras que combinen **eficiencia, escalabilidad y un diseño centrado en el usuario**, contribuyendo al avance digital con productos confiables y de calidad.
+Desarrollar soluciones tecnológicas innovadoras que integren **eficiencia, escalabilidad y un diseño centrado en el usuario**, impulsando el avance digital mediante productos **confiables, sostenibles y de alta calidad**.
 
 ---
 
